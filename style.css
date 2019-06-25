@@ -1,0 +1,27 @@
+#loading, #results {
+	display: none;
+		}
+		
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+		
+#loading {
+	height: 100px;
+}
+		
+.loading-img {
+	margin-top: 1rem;
+	width: 100%;
+	object-fit: cover;
+}
+
+.padding {
+  padding-bottom: 1rem;
+}
+
+input[type=checkbox]{
+  transform: scale(2);
+  margin-top: 0.4rem;
+}
